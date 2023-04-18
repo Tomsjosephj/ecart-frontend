@@ -1,0 +1,7 @@
+.myimage:hover{
+
+    transform: scale(1.1);
+
+    transition: .5s ease-in-out;
+
+}
